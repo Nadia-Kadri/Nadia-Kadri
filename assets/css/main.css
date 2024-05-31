@@ -1,0 +1,14 @@
+body {
+  padding-top: 56px;
+  /* background-color: #011628;
+  color: #ffffff */
+}
+
+#home {
+  margin-top: 160px;
+  margin-bottom: 160px;
+}
+
+#skills, #projects, #contact {
+  margin-bottom: 160px;
+}
