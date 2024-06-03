@@ -1,8 +1,13 @@
 body {
   /* padding-top: 56px; */
   font-family: 'Times New Roman', Times, serif;
-  /* background-color: #011628;
-  color: #ffffff */
+  background-color: #011628;
+  color: #ffffff;
+}
+
+nav {
+  background-color: #011628;
+  /* color: #ffffff; */
 }
 
 #home {
