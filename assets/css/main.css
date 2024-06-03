@@ -2,6 +2,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
   background-color: #011628;
   color: #ffffff;
+  font-size: 18px;
 }
 
 nav {
@@ -30,4 +31,10 @@ nav {
 
 .card-title {
   color: #ffffff;
+}
+
+@media (min-width: 1200px) {
+  .container-media-query {
+    width: 83.33%;
+  }
 }
