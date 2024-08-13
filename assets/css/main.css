@@ -60,10 +60,13 @@ nav {
   .container-media-query {
     text-align: center;
   }
-  .card {
-    margin: auto;
-  }
   #home {
     padding-top: 140px;
+  }
+}
+
+@media (max-width: 767px) {
+  .card-mb-custom {
+    margin-bottom: 30px;
   }
 }
